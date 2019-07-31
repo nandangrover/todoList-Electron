@@ -1,0 +1,27 @@
+{
+  "name": "todolist-electron",
+  "version": "1.0.0",
+  "description": "A simple todo list made using Electron.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandangrover/todoList-Electron.git"
+  },
+  "author": "Nandan Grover",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.8"
+  },
+  "dependencies": {
+    "electron-reload": "^1.4.1",
+    "electron-store": "^4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/nandangrover/todoList-Electron/issues"
+  },
+  "homepage": "https://github.com/nandangrover/todoList-Electron#readme"
+}
